@@ -64,7 +64,7 @@ I am Punith Kumar, Passionate Full Stack Software Developer 🚀 having an exper
 
 <a href="https://github.com/punithkumar-bs">
   <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=punithkumar-bs&show_icons=true&theme=tokyonight" alt="Punith's GitHub Stats" /> -->
-  <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=punithkumar-bs&layout=compact&theme=tokyonight" alt="Punith's Languages Used Stats" width="410" /></p>
+  <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=punithkumar-bs&theme=tokyonight" alt="Punith's Languages Used Stats" width="410" /></p>
 </a>
 
  
