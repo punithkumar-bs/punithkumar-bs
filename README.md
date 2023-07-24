@@ -6,8 +6,8 @@
 
 I am Punith Kumar, Passionate Full Stack Software Developer 🚀 having an experience of building Web , Mobile and Desktop applications with React / JavaScript / HTML/CSS / Nodejs / Java / Python and other cool libraries and frameworks.
 
-- 🔭 I am a Software Engineer with professional experience across the FinTech and Automotive Industries 
-- 🌱 I currently work for [Yapstone](https://www.yapstone.com/) 
+- 🔭 I am a Software Engineer with professional experience across the Healthcare, FinTech and Automotive Industries 
+- 🌱 I currently work for [Optum](https://www.optum.com/) 
 - 💬 Ask me about Trending Tech , Web Development Technologies , Best Sci-Fi Shows to Watch 
 - 😄 I like to sing, write lyrics and draw cartoon characters during my free time
 <br/>
